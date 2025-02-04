@@ -4,7 +4,7 @@
 <div align="center">10 Months</div>
 
 - ###### [ALURA] Studying
-  <a href="https://cursos.alura.com.br/user/SEU_USUARIO">
+  <a href="https://cursos.alura.com.br/user/00001097958760SP">
     <img src="https://img.shields.io/badge/Alura-Blue?style=for-the-badge" alt="Alura Badge"/>
   </a>
 
@@ -12,6 +12,8 @@
 - ###### [SENAI] Excel Básico / Tech: Excel.
 - ###### [SENAI] Dashboard em Excel / Tech: Excel.
 - ###### [SENAI] Power Bi / Tech: Power Bi.
+- ###### [SENAI] Programação em Python / Tech: Python.
+- ###### [SENAI] Programação em Python para Data Science/ Tech: Python.
 
 ### Conexões:
 <p>
