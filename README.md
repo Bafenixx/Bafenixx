@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>, I'm Bárbara!</h1>
 
 <div align="center">A front end developer</div>
-<div align="center">10 Months</div>
+<div align="center">2 years</div>
 
 - ###### [ALURA] Studying
   <a href="https://cursos.alura.com.br/user/00001097958760SP">
@@ -14,6 +14,7 @@
 - ###### [SENAI] Power Bi / Tech: Power Bi.
 - ###### [SENAI] Programação em Python / Tech: Python.
 - ###### [SENAI] Programação em Python para Data Science/ Tech: Python.
+- ###### [SENAI] Desenvolvimento em JavaScript/ Tech: JavaScript.
 
 ### Conexões:
 <p>
@@ -22,9 +23,6 @@
   </a>
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/seu_usuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
   </a>
 </p>
 
