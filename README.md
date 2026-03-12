@@ -3,10 +3,8 @@
 <div align="center">A front end developer</div>
 <div align="center">2 years</div>
 
-- ###### [ALURA] Studying
-  <a href="https://cursos.alura.com.br/user/00001097958760SP">
-    <img src="https://img.shields.io/badge/Alura-Blue?style=for-the-badge" alt="Alura Badge"/>
-  </a>
+- ###### [SENAC] Studying:
+- ###### [SENAC] Desenvolvedor Full-stack.
 
 
 - ###### [SENAI] Excel Básico / Tech: Excel.
