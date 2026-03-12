@@ -3,8 +3,7 @@
 <div align="center">A front end developer</div>
 <div align="center">2 years</div>
 
-- ###### [SENAC] Studying:
-- ###### [SENAC] Desenvolvedor Full-stack.
+- ###### [SENAC] Studying: Desenvolvedor Full-stack. 
 
 
 - ###### [SENAI] Excel Básico / Tech: Excel.
